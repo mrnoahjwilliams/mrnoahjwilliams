@@ -1,4 +1,1 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/mrnoahjwilliams/count.svg" alt="Visitor's Count" />
-</div>
+![Profile views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mrnoahjwilliams/profile-counter/main/badge.json)
