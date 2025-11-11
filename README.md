@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm **Noah Williams**
-🎯 *Mission-driven Developer | CS Student | Builder of Useful Tech*
+# 👋 Hey, I'm **Noah Williams**
+*Mission-driven Developer | CS Student | Builder of Useful Tech*
 
 [![GitHub followers](https://img.shields.io/github/followers/mrnoahjwilliams?label=Followers&style=social)](https://github.com/mrnoahjwilliams)
 ![Profile Views](https://komarev.com/ghpvc/?username=mrnoahjwilliams&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/noahjwilliams)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/noah-williams-3ba28b346)
 [![Email](https://img.shields.io/badge/Email-mrnoahjwilliams%40gmail.com-red?style=flat&logo=gmail)](mailto:mrnoahjwilliams@gmail.com)
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **Computer Science student** with a deep passion for building technology that helps people — blending **AI, embedded systems, and real-world applications**.  
 
@@ -25,30 +25,30 @@ I love turning ideas into systems — whether it’s a wearable health monitor, 
 
 ---
 
-## 🧠 What I’m Working On
+## What I’m Working On
 
-- 🧩 **[YoChat](https://github.com/mrnoahjwilliams/yochat)** — Modular personal AI assistant (Ollama + RAG + voice)
-- ❤️ **[Smart Health Monitor](https://github.com/mrnoahjwilliams/smart-health-monitor)** — ECG + PPG + ML → real-time blood pressure estimation  
-- 🥽 **[AR Smart Glasses](https://github.com/mrnoahjwilliams/ar-smart-glasses)** — Wearable display showing assistant data + live translation  
-- 🖥️ **[Homelab Project](https://github.com/mrnoahjwilliams/homelab)** — Budget-friendly virtualization + networking setup  
-- 🌐 **[Portfolio Website](https://mrnoahjwilliams.github.io)** — My online hub for projects & updates  
+- **[Higgins](https://github.com/mrnoahjwilliams/higgins)** — Modular personal AI assistant (Ollama + RAG + memory system)
+- **[Cardio-Vascular Monitor System](https://github.com/mrnoahjwilliams/cardio-vascular-monitor-system)** — ECG + PPG + ML → real-time blood pressure estimation  
+- **[AR Smart Glasses](https://github.com/mrnoahjwilliams/ar-smart-glasses)** — Wearable display showing assistant data + live translation  
+- **[Homelab Project](https://github.com/mrnoahjwilliams/homelab)** — Budget-friendly virtualization + networking setup  
+- **[Portfolio Website](https://mrnoahjwilliams.github.io)** — My online hub for projects & updates  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
-`Python` `C/C++` `JavaScript` `HTML/CSS` `Bash`  
+`Python` `Java` `C#`
 
 **Frameworks & Libraries**  
-`React` `Node.js` `Express` `Flask` `Tailwind` `LangChain` `PyTorch` `OpenCV`  
+`LangChain` `Ollama` `Processing` 
 
 **Tools & Platforms**  
-`Git` `Docker` `Linux` `ESP32` `Arduino` `Firebase` `VS Code`  
+`ChatGPT` `MATLAB` `Electronics` `Raspberry Pi` `Open Rocket` `Docker`  
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced **AI Agent Architectures**
 - **Low-latency embedded systems** for wearables
@@ -57,7 +57,7 @@ I love turning ideas into systems — whether it’s a wearable health monitor, 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -68,28 +68,16 @@ I love turning ideas into systems — whether it’s a wearable health monitor, 
 
 ---
 
-## 🧩 Featured Projects
+## Connect
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [**YoChat**](https://github.com/mrnoahjwilliams/yochat) | Modular, locally hosted AI assistant (Ollama + RAG + memory system) | Python, LangChain, Node |
-| [**Smart Health Monitor**](https://github.com/mrnoahjwilliams/smart-health-monitor) | Wearable ECG + PPG device estimating blood pressure via PTT | C++, Python, Bluetooth |
-| [**AR Smart Glasses**](https://github.com/mrnoahjwilliams/ar-smart-glasses) | Displays data from AI assistant in real-time | ESP32, MicroDisplay, React |
-| [**Homelab Project**](https://github.com/mrnoahjwilliams/homelab) | Low-cost multi-VM setup for servers and automation | Docker, Proxmox, Linux |
-| [**Portfolio Website**](https://github.com/mrnoahjwilliams/portfolio) | Clean React website showcasing my work | React, TailwindCSS |
-
----
-
-## 🤝 Connect
-
-📧 **Email:** [mrnoahjwilliams@gmail.com](mailto:mrnoahjwilliams@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/noahjwilliams](https://linkedin.com/in/noahjwilliams)  
-🌍 **Website:** [mrnoahjwilliams.github.io](https://mrnoahjwilliams.github.io)
+**Email:** [mrnoahjwilliams@gmail.com](mailto:mrnoahjwilliams@gmail.com)  
+**LinkedIn:** [linkedin.com/in/noahjwilliams](https://www.linkedin.com/in/noah-williams-3ba28b346)  
+**Website:** [mrnoahjwilliams.github.io](https://mrnoahjwilliams.github.io)
 
 ---
 
 <div align="center">
   
-✨ *Always building. Always learning.* ✨  
+*Always building. Always learning.*  
 
 </div>
