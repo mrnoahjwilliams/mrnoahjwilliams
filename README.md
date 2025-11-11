@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mrnoahjwilliams?label=Followers&style=social)](https://github.com/mrnoahjwilliams)
 ![Profile Views](https://komarev.com/ghpvc/?username=mrnoahjwilliams&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/noah-williams-3ba28b346)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/noah-williams-3ba28b346)
 [![Email](https://img.shields.io/badge/Email-mrnoahjwilliams%40gmail.com-red?style=flat&logo=gmail)](mailto:mrnoahjwilliams@gmail.com)
 
 ---
