@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hey, I'm **Noah Williams**
-*Mission-driven Developer | CS Student | Builder of Useful Tech*
+# Hello World! I'm Noah Williams
+*Hobbyist Developer | CS Major | Job Seeker*
 
 [![GitHub followers](https://img.shields.io/github/followers/mrnoahjwilliams?label=Followers&style=social)](https://github.com/mrnoahjwilliams)
 ![Profile Views](https://komarev.com/ghpvc/?username=mrnoahjwilliams&color=blue)
@@ -12,59 +12,42 @@
 
 </div>
 
-> *"Technology is best when it brings people together."*  
-> — Matt Mullenweg
+> *"AI is an amplifier of human intelligence & when people are smarter, better things happen: people are more productive, happier & the economy thrives."*
+> — Yann LeCun
 
 ---
 
 ## About Me
 
-I’m a **Computer Science student** with a deep passion for building technology that helps people — blending **AI, embedded systems, and real-world applications**.  
+I travel the world, build cool things, and study whatever is interesting to me: usually AI, robots, or space. I have 10x more unfinished projects than finished ones! XD
 
-I love turning ideas into systems — whether it’s a wearable health monitor, an AI assistant, or smart glasses that display real-time information.
+I just recently graduated from Western Govenors University with a BS in Computer Science, completing the entire degree in 6 months. Now I am fleshing out and polishing my personal projects.
 
 ---
 
 ## What I’m Working On
 
-- **[Higgins](https://github.com/mrnoahjwilliams/higgins)** — Modular personal AI assistant (Ollama + RAG + memory system)
-- **[Cardio-Vascular Monitor System](https://github.com/mrnoahjwilliams/cardio-vascular-monitor-system)** — ECG + PPG + ML → real-time blood pressure estimation  
-- **[AR Smart Glasses](https://github.com/mrnoahjwilliams/ar-smart-glasses)** — Wearable display showing assistant data + live translation  
-- **[Homelab Project](https://github.com/mrnoahjwilliams/homelab)** — Budget-friendly virtualization + networking setup  
-- **[Portfolio Website](https://mrnoahjwilliams.github.io)** — My online hub for projects & updates  
+- **[Higgins](https://github.com/mrnoahjwilliams/higgins)** -> A personal AI assistant that is more than an LLM chatbot. Think: JARVIS.
+- **[Cardio-Vascular Monitor System](https://github.com/mrnoahjwilliams/cardio-vascular-monitor-system)** -> A wearable device that uses ML and PPG/ECG values to estimate blood pressure in real time. Continuous Non-invasive Blood Pressure Monitoring System.
 
 ---
 
 ## Tech Stack
 
 **Languages**  
-`Python` `Java` `C#`
+`Python` `Java` `C#` `JavaScript` `SQL` `HTML` `CSS`
 
 **Frameworks & Libraries**  
-`LangChain` `Ollama` `Processing` 
+`Spring Boot` `Hibernate` `Angular` `React` `LangChain` `scikit-learn`
+
+**Database**
+`MySQL` `PostgreSQL` `SQLite`
 
 **Tools & Platforms**  
-`ChatGPT` `MATLAB` `Electronics` `Raspberry Pi` `Open Rocket` `Docker`  
+`Git` `Docker` `Linux` `Maven` `Ollama`
 
----
-
-## Currently Learning
-
-- Advanced **AI Agent Architectures**
-- **Low-latency embedded systems** for wearables
-- **DevOps / Homelab management** using Docker and Proxmox
-- Clean system design & documentation
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnoahjwilliams&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnoahjwilliams&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+**Concepts**
+`REST APIs` `AI/ML` `Containerization` `Virtualization`
 
 ---
 
@@ -78,6 +61,6 @@ I love turning ideas into systems — whether it’s a wearable health monitor, 
 
 <div align="center">
   
-*Always building. Always learning.*  
+*If I stop committing, it's because I blew up.*
 
 </div>
