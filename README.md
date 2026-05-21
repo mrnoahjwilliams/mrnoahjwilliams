@@ -27,8 +27,8 @@ I just recently graduated from Western Govenors University with a BS in Computer
 
 ## What I’m Working On
 
-- **[Higgins](https://github.com/mrnoahjwilliams/higgins)** -> A personal AI assistant that is more than an LLM chatbot. Think: JARVIS.
-- **[Cardio-Vascular Monitor System](https://github.com/mrnoahjwilliams/cardio-vascular-monitor-system)** -> A wearable device that uses ML and PPG/ECG values to estimate blood pressure in real time. Continuous Non-invasive Blood Pressure Monitoring System.
+- **Higgins** -> A personal AI assistant that is more than an LLM chatbot. Think: JARVIS.
+- **The Machine** -> A wearable device that uses ML and PPG/ECG values to estimate blood pressure in real time. Continuous Non-invasive Blood Pressure Monitoring System.
 
 ---
 
